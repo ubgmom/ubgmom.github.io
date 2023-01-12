@@ -1,0 +1,44 @@
+{
+    "intro": {
+        "cta": "Tap to start"
+    },
+    "tutorial": {
+        "message": "<div style=\"font-size: 1.2em\">Roll to the ball</div style=\"font-size: 1em\"><div>which has the <span style=\"color: #C1000C\">same color</span>!</div>",
+        "cta": "Go"
+    },
+    "shop": {
+        "disclaimer": "Coming soon",
+        "cta": "OK",
+        "categories": {
+            "skin": "Skin", 
+            "tail": "Tail", 
+            "road": "Road"  
+        }
+    },
+    "game": {
+        "road": "Road",
+        "miss": "Miss",
+        "above-previous": "Above previous!",
+        "new-best": "New best!",
+        "reward": {
+            "good": "Good",
+            "great": "Great",
+            "awesome": "Awesome",
+            "marvelous": "Marvelous",
+            "terrific": "Terrific",
+            "wonderful": "Wonderful",
+            "incredible": "Incredible",
+            "amazing": "Amazing"
+        }
+    },
+    "final": {
+        "best": "Best",
+        "current": "Current",
+        "continue": "Tap to continue",
+        "play-again": "Play again",
+        "invite": "Invite friends",
+        "share": "Share with friends",
+        "new-best-score": "New best score!",
+        "new-best-road": "New best road!"
+    }
+}
